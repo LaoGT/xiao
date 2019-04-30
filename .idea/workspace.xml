@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="424f9d6f-400c-4de8-9a35-d20f18ba0fb7" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -14,10 +15,14 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-214">
+              <caret line="28" column="45" lean-forward="true" selection-start-line="28" selection-end-line="29" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -25,10 +30,17 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/index.html" />
+      </list>
+    </option>
+  </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="321" />
-    <option name="y" value="30" />
-    <option name="width" value="1400" />
+    <option name="x" value="56" />
+    <option name="y" value="85" />
+    <option name="width" value="1808" />
     <option name="height" value="1000" />
   </component>
   <component name="ProjectView">
@@ -36,6 +48,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -43,11 +56,15 @@
               <item name="xiao" type="b2602c69:ProjectViewProjectNode" />
               <item name="xiao" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="xiao" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xiao" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -87,6 +104,8 @@
       <updated>1556376882348</updated>
       <workItem from="1556376883510" duration="862000" />
       <workItem from="1556460675623" duration="1704000" />
+      <workItem from="1556545804289" duration="1200000" />
+      <workItem from="1556609991044" duration="5375000" />
     </task>
     <task id="LOCAL-00001" summary="my">
       <created>1556462089964</created>
@@ -99,13 +118,14 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2566000" />
+    <option name="totallyTimeSpent" value="9141000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="321" y="30" width="1400" height="1000" extended-state="0" />
+    <frame x="56" y="85" width="1808" height="1000" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49769053" visible="true" weight="0.2496329" />
-      <window_info id="Structure" order="1" sideWeight="0.50230944" side_tool="true" visible="true" weight="0.2496329" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49538106" visible="true" weight="0.19209039" />
+      <window_info id="Structure" order="1" sideWeight="0.50461894" side_tool="true" visible="true" weight="0.19209039" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -131,8 +151,18 @@
     <option name="LAST_COMMIT_MESSAGE" value="my" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/images/pic01.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/bg01.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-214">
+          <caret line="28" column="45" lean-forward="true" selection-start-line="28" selection-end-line="29" />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
